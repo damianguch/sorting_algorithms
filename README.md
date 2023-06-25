@@ -1,4 +1,4 @@
-# sorting_algorithms
+# Sorting Algorithms
 ## Learning Objectives
 
 ## General
